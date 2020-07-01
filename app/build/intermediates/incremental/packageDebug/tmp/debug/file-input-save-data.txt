@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 30 16:34:27 WAT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\MSI PRESTIGE PS42\\Desktop\\PRojet_Mob\\GeoMab\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
